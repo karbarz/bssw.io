@@ -1,10 +1,14 @@
 # BSSw Announcements
 
 Announcement:
+- [Events at SC20 related to producing better scientific software ... Please join us there!](../../Events/SC20-sw-events.md)
+- Display dates: 10/29/2020 - 11/20/2020
+
+
+<!--
 - [Applications for the 2021 BSSw Fellowship Program due by September 30](../../Articles/Blog/BSSwFellowshipApplicationsOpen2020.md)
 - Display dates: 09/11/2020 - 9/30/2020
 
-<!--
 - [Call for Contributions: 2020 Collegeville Workshop on Scientific Software: Developer Productivity](../../Events/Collegeville2020.md)
 - Display dates: 05/29/2020 - 07/15/2020
 
@@ -163,3 +167,4 @@ Announcement:
 - Listing more than one announcement breaks the vehicle. If you choose to promote your announcement over an existing one, please comment out the previous to make it clear what you've replaced
 - Question: Max length of announcement text?
 -->
+
