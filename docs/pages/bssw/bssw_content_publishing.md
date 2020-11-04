@@ -46,15 +46,16 @@ The following steps assume that the BSSw editorial team has already determined t
 * Adheres to the style guide for the specific content
 * Logo/image formatting - Please check for this unless style guide is specific instructions
 * Grammar, punctuation, spelling, syntax
-* Validity
+
+#### Validity
 * Check for any prior versions of the same content. If the prior version is very outdated, consider replacing it with this newer content. Please judge on a case-by-case basis.
 * Past events of the same conferences/workshops/etc. are not deleted and just kept as archives.
-
-#### References checked
+* References checked
 * Valid hyperlinks
 * Image copyright permissions 
 * Licensing terms checked  - BSSw.io eventually needs a box that should say "By checking this box, author acknowledges and agrees to licensing terms of content they develop here" 
-* Metadata 
+
+#### Metadata 
 * Finalize the category(ies) and topic(s) 
 * Sanity check on preview site for overall display
 
